@@ -7,6 +7,9 @@
 | [remove.bg](https://www.remove.bg) | remove background from a photo | Free option |
 | [deepl]()                          |                                |             |
 | [quillbot](https://quillbot.com)   |                                |             |
+https://excelformulabot.com
+https://www.articleforge.com
+https://pitch.com/templates
 
 ## General
 
